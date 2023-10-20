@@ -15,3 +15,6 @@
 - Teoría SparkSession
 
 - Ejercicios de Transformaciones y Acciones sobre RDD
+
+## 20-10-2023
+- Repaso con apuntes del M6-Entornos Cloud
